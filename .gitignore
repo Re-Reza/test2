@@ -1,2 +1,4 @@
 nodemodules/
-*.txt
+# *.txt
+# !a.txt
+index.html 
